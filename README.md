@@ -6,7 +6,7 @@ Overview:
 The Country-wise Product Trend Analysis and Sales Prediction project aims to analyze product sales data across different countries to identify trends and predict future sales. The project leverages historical sales data to forecast future demand, helping businesses make informed decisions regarding inventory management, marketing strategies, and product launches.
 
 
-Features
+Features:
 
 - Trend Analysis: Identifies product sales trends in different countries, highlighting seasonal patterns, top-selling products, and market shifts.
 - Sales Prediction: Predicts future sales using machine learning models, providing country-specific forecasts.
@@ -14,7 +14,7 @@ Features
 - Country-wise Comparison: Allows for comparison of sales trends and predictions across different countries.
 
 
-Dataset
+Dataset:
 
 The dataset includes historical sales data from multiple countries, with the following key features:
 
@@ -28,7 +28,7 @@ The dataset includes historical sales data from multiple countries, with the fol
 The dataset should be a CSV file with the aforementioned columns.
 
 
-Installation
+Installation:
 
 Prerequisites
 
@@ -65,7 +65,7 @@ Copy code
 pip install -r requirements.txt
 
 
-Usage
+Usage:
 
 1. Data Preprocessing
    
@@ -122,7 +122,7 @@ flask run
 Then visit http://127.0.0.1:5000/ in your browser to interact with the app.
 
                          
-Visualizations
+Visualizations:
 
 The project includes a range of visualizations to help understand product trends and predictions, such as:
 
@@ -131,7 +131,8 @@ The project includes a range of visualizations to help understand product trends
 - Seasonal Patterns: Heatmaps or line charts depicting seasonal variations in product sales.
 - Prediction Results: Graphs showing actual vs. predicted sales for selected countries.
 
-Model Training
+
+Model Training:
 
 To train the sales prediction models, run the train_model.py script. This will preprocess the data, train the model, and save it for future use:
 
@@ -142,12 +143,12 @@ Copy code
 python train_model.py --model <model_name>
 
 
-Contributing
+Contributing:
 
 Contributions are welcome! If you have ideas for improvements or new features, please fork the repository and submit a pull request. Bug reports and feature requests are also encouraged.
 
 
-License
+License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
