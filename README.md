@@ -1,4 +1,4 @@
-## 📦🌍📊🔍 Country-wise Product Trend Analysis and Sales Prediction
+#  🛒🌍📊🔍 Country-wise Product Trend Analysis and Sales Prediction
 
 
 ![Trend Analysis](https://img.shields.io/badge/Product-Trend%20Analysis-blue?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Powered-red?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
